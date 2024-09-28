@@ -7,5 +7,6 @@ checkbox = st.checkbox("mpivarotra", key="check")
 if checkbox:
     st.write("Vous avez coché le checkbox 'mpivarotra'.")
 st.text_input(label="Asiana valeur ity", placeholder="Firy ny valeur ho apetraka eto...",key="texte")
+#test
 
 st.session_state
